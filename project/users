@@ -27,6 +27,7 @@
   {
     "id": 2,
     "name": "Ervin Howell",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "address": {
@@ -50,6 +51,7 @@
   {
     "id": 3,
     "name": "Clementine Bauch",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "address": {
@@ -73,6 +75,7 @@
   {
     "id": 4,
     "name": "Patricia Lebsack",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "address": {
@@ -96,6 +99,7 @@
   {
     "id": 5,
     "name": "Chelsey Dietrich",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
@@ -119,6 +123,7 @@
   {
     "id": 6,
     "name": "Mrs. Dennis Schulist",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
     "address": {
@@ -132,6 +137,7 @@
       }
     },
     "phone": "1-477-935-8478 x6430",
+    
     "website": "ola.org",
     "company": {
       "name": "Considine-Lockman",
@@ -142,6 +148,7 @@
   {
     "id": 7,
     "name": "Kurtis Weissnat",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
@@ -165,6 +172,7 @@
   {
     "id": 8,
     "name": "Nicholas Runolfsdottir V",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Maxime_Nienow",
     "email": "Sherwood@rosamond.me",
     "address": {
@@ -188,6 +196,7 @@
   {
     "id": 9,
     "name": "Glenna Reichert",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
     "address": {
@@ -211,6 +220,7 @@
   {
     "id": 10,
     "name": "Clementina DuBuque",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
     "address": {
