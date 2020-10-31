@@ -235,7 +235,7 @@
     },
     "phone": "024-648-3804",
     "website": "ambrose.net",
-    "company": {
+    "company": { 
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
