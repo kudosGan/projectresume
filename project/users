@@ -1,14 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "KudosGAN",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "kudosdesigner@hotmail1.com",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",
       "zipcode": "92998-3874",
+      
       "geo": {
         "lat": "-37.3159",
         "lng": "81.1496"
@@ -24,9 +26,10 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "name": "TensorFlow JS Projects",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand2.jpg",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "kudosdesigner@hotmail1.com",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -47,9 +50,10 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
+    "name": "TensorFlow Lite Projects",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand23.jpg",
     "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "email": "kudosdesigner@hotmail1.com",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
@@ -70,9 +74,10 @@
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
+    "name": "React JS web",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand2.jpg",
     "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
+    "email": kudosdesigner@hotmail1.oi",
     "address": {
       "street": "Hoeger Mall",
       "suite": "Apt. 692",
@@ -93,9 +98,10 @@
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
+    "name": "Python  Petit Projets",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/human_Z.jpg",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
+    "email": "Kudosdesigner@io",
     "address": {
       "street": "Skiles Walks",
       "suite": "Suite 351",
@@ -116,9 +122,10 @@
   },
   {
     "id": 6,
-    "name": "Mrs. Dennis Schulist",
+    "name": "Python Mentor",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/droid_1.jpg",
     "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
+    "email": "kudosdesigner@.info",
     "address": {
       "street": "Norberto Crossing",
       "suite": "Apt. 950",
@@ -130,6 +137,7 @@
       }
     },
     "phone": "1-477-935-8478 x6430",
+    
     "website": "ola.org",
     "company": {
       "name": "Considine-Lockman",
@@ -139,7 +147,8 @@
   },
   {
     "id": 7,
-    "name": "Kurtis Weissnat",
+    "name": "DATA Sets Un_Structured",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/trashdata/timcups/6.jpeg",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
@@ -162,9 +171,10 @@
   },
   {
     "id": 8,
-    "name": "Nicholas Runolfsdottir V",
+    "name": "Data Sets  Structured",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/trashdata/timcups/3.jpeg",
     "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
+    "email": "kudosdesigner@hotmail1.me",
     "address": {
       "street": "Ellsworth Summit",
       "suite": "Suite 729",
@@ -185,9 +195,10 @@
   },
   {
     "id": 9,
-    "name": "Glenna Reichert",
+    "name": "OpenCV",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/trashdata/timcups/16.jpeg",
     "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
+    "email": "kudosdesigner@hotmail1.me",
     "address": {
       "street": "Dayna Park",
       "suite": "Suite 449",
@@ -208,9 +219,10 @@
   },
   {
     "id": 10,
-    "name": "Clementina DuBuque",
+    "name": "New Projects ",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/trashdata/timcups/14.jpeg",
     "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
+    "email": "kudosdesigner@hotmail1.me",
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -223,7 +235,7 @@
     },
     "phone": "024-648-3804",
     "website": "ambrose.net",
-    "company": {
+    "company": { 
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
