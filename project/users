@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "KudosGAN",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/robots.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg",
     "username": "Bret",
     "email": "kudosdesigner@hotmail1.com",
     "address": {
@@ -27,7 +27,7 @@
   {
     "id": 2,
     "name": "TensorFlow JS Projects",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand2.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand2.jpg",
     "username": "Antonette",
     "email": "kudosdesigner@hotmail1.com",
     "address": {
@@ -51,7 +51,7 @@
   {
     "id": 3,
     "name": "TensorFlow Lite Projects",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand23.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand23.jpg",
     "username": "Samantha",
     "email": "kudosdesigner@hotmail1.com",
     "address": {
@@ -75,7 +75,7 @@
   {
     "id": 4,
     "name": "React JS web",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand2.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand2.jpg",
     "username": "Karianne",
     "email": kudosdesigner@hotmail1.oi",
     "address": {
@@ -99,7 +99,7 @@
   {
     "id": 5,
     "name": "Python  Petit Projets",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/human_Z.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/human_Z.jpg",
     "username": "Kamren",
     "email": "Kudosdesigner@io",
     "address": {
@@ -123,7 +123,7 @@
   {
     "id": 6,
     "name": "Python Mentor",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/robo/droid_1.jpg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/droid_1.jpg",
     "username": "Leopoldo_Corkery",
     "email": "kudosdesigner@.info",
     "address": {
@@ -148,7 +148,7 @@
   {
     "id": 7,
     "name": "DATA Sets Un_Structured",
-    "img":"https://kudosgan.github.io/La_vie_Canadianne//image/trashdata/timcups/6.jpeg",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/trashdata/timcups/6.jpeg",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
