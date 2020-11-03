@@ -1,9 +1,9 @@
 [
 {
   "id": 1,
-  "name": "Ervin Howell",
-  "username": "Antonette",
-  "email": "Shanna@melissa.tv",
+  "name": "kudosGAN",
+  "username": "kudas Gan",
+  "email": "kudosdesigner@hotmail.com",
   "img": "https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand23.jpg",
   "address": {
     "street": "Victor Plains",
@@ -25,9 +25,10 @@
 },
 {
   "id": 2,
-  "name": " Howell",
+  "name": " TensorFlow",
   "username": "Antonette",
-  "email": "Shanna@melissa.tv",
+  "email": "kudostwo@yahooi.com",
+  "img": "https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand2.jpg",
   "address": {
     "street": "Victor Plains",
     "suite": "Suite 879",
@@ -48,9 +49,10 @@
 },
 {
   "id": 3,
-  "name": "Ervin Howell",
+  "name": "TensorFlowjs",
   "username": "Antonette",
   "email": "Shanna@melissa.tv",
+  "img": "https://kudosgan.github.io/La_vie_Canadianne//image/robo/hand25.jpg",
   "address": {
     "street": "Victor Plains",
     "suite": "Suite 879",
@@ -71,7 +73,7 @@
 },
 {
   "id": 4,
-  "name": "Ervin ",
+  "name": "Tensorflow Lite ",
   "username": "Antonette",
   "email": "Shanna@melissa.tv",
   "img": "https://kudosgan.github.io/La_vie_Canadianne/image/robo/hand2.jpg",
