@@ -1,6 +1,23 @@
-[
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+      "name": "KudosGAN",
+    "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg",
+    "username": "Bret",
+    "email": "kudosdesigner@hotmail1.com",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+    }
+    },
+  
+  
   {
-    "id": 1,
+    "id": 11,
     "name": "KudosGAN",
     "img":"https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg",
     "username": "Bret",
@@ -242,3 +259,4 @@
     }
   }
 ]
+}
